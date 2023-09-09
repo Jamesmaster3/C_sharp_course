@@ -1,0 +1,14 @@
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\bin\Debug\wombat.exe
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\bin\Debug\wombat.pdb
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\game.MainForm.resources
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.GenerateResource.Cache
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\wombat.exe
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\wombat.pdb
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\adventure-game.csprojResolveAssemblyReference.cache
+E:\Huw\Programming\CSharp\AdventureGame2\AdventureGame\bin\Debug\wombat.exe
+E:\Huw\Programming\CSharp\AdventureGame2\AdventureGame\bin\Debug\wombat.pdb
+E:\Huw\Programming\CSharp\AdventureGame2\AdventureGame\obj\Debug\adventure-game.csprojResolveAssemblyReference.cache
+E:\Huw\Programming\CSharp\AdventureGame2\AdventureGame\obj\Debug\game.MainForm.resources
+E:\Huw\Programming\CSharp\AdventureGame2\AdventureGame\obj\Debug\adventure-game.csproj.GenerateResource.Cache
+E:\Huw\Programming\CSharp\AdventureGame2\AdventureGame\obj\Debug\wombat.exe
+E:\Huw\Programming\CSharp\AdventureGame2\AdventureGame\obj\Debug\wombat.pdb
