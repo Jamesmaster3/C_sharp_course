@@ -6,3 +6,13 @@ C:\BitwiseCourses\COURSES\CSharpCourse\SOURCE-CODE\CSharpProjects_v1.2\Step03\Op
 C:\BitwiseCourses\COURSES\CSharpCourse\SOURCE-CODE\CSharpProjects_v1.2\Step03\Operators\Operators\obj\x86\Debug\Operators.csproj.GenerateResource.Cache
 C:\BitwiseCourses\COURSES\CSharpCourse\SOURCE-CODE\CSharpProjects_v1.2\Step03\Operators\Operators\obj\x86\Debug\Operators.exe
 C:\BitwiseCourses\COURSES\CSharpCourse\SOURCE-CODE\CSharpProjects_v1.2\Step03\Operators\Operators\obj\x86\Debug\Operators.pdb
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\obj\x86\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\obj\x86\Debug\Operators.Form1.resources
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\obj\x86\Debug\Operators.Properties.Resources.resources
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\obj\x86\Debug\Operators.csproj.GenerateResource.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\obj\x86\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\obj\x86\Debug\Operators.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step03\Operators\Operators\obj\x86\Debug\Operators.pdb

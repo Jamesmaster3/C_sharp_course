@@ -7,3 +7,13 @@ E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\HelloWorl
 E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\HelloWorld\obj\Debug\HelloWorld.exe
 E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -4,3 +4,12 @@ C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.Form1.resources
 C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.GenerateResource.Cache
 C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.exe
 C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.pdb
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\bin\Debug\arrays.exe.config
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\bin\Debug\arrays.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\bin\Debug\arrays.pdb
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\obj\Debug\arrays.Form1.resources
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.GenerateResource.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\obj\Debug\arrays.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\arrays\obj\Debug\arrays.pdb

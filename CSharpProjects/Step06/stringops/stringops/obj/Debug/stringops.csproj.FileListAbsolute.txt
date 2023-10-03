@@ -1,0 +1,7 @@
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\stringops\stringops\bin\Debug\stringops.exe.config
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\stringops\stringops\bin\Debug\stringops.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\stringops\stringops\bin\Debug\stringops.pdb
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.csproj.AssemblyReference.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.csproj.CoreCompileInputs.cache
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.exe
+C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.pdb
