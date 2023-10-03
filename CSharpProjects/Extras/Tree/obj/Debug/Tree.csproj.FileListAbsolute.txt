@@ -5,3 +5,11 @@ C:\Huw\programming\C#\206\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cac
 C:\Huw\programming\C#\206\Tree\obj\Debug\Tree.Form1.resources
 C:\Huw\programming\C#\206\Tree\obj\Debug\Tree.csproj.GenerateResource.Cache
 C:\Huw\programming\C#\206\Tree\obj\Debug\Tree.exe
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\bin\Debug\Tree.exe
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\bin\Debug\Tree.pdb
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\obj\Debug\Tree.Form1.resources
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\obj\Debug\Tree.csproj.GenerateResource.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\obj\Debug\Tree.exe
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Extras\Tree\obj\Debug\Tree.pdb

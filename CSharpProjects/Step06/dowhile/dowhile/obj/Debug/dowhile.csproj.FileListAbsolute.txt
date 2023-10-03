@@ -1,7 +1,0 @@
-C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\dowhile\dowhile\bin\Debug\dowhile.exe.config
-C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\dowhile\dowhile\bin\Debug\dowhile.exe
-C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\dowhile\dowhile\bin\Debug\dowhile.pdb
-C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.csproj.AssemblyReference.cache
-C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
-C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.exe
-C:\Users\jbentem\OneDrive - KPMG\Documents\Development\05. C#\C_sharp_course\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.pdb

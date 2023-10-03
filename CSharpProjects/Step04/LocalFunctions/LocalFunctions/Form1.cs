@@ -25,11 +25,7 @@ namespace LocalFunctions {
 
             bonus = addBonus();
             msg = aName + " has a salary of " + bonus + "\n";
-            string upperMsg;
-            upperMsg = msg.ToUpper();
-
-            return upperMsg;
-            
+            return msg;
         }
 
         private void button1_Click(object sender, EventArgs e) {            

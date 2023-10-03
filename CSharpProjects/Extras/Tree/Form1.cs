@@ -40,10 +40,7 @@ namespace Tree {
         private System.Windows.Forms.MenuItem menuItem2;
         private System.Windows.Forms.MenuItem IndexMI;
         private System.Windows.Forms.MenuItem TestMI;
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
-        private System.ComponentModel.Container components = null;
+        private IContainer components;
 
         public Form1() {
             //
@@ -74,6 +71,27 @@ namespace Tree {
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent() {
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("Node5");
+            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("Node8");
+            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("Node4", new System.Windows.Forms.TreeNode[] {
+            treeNode1,
+            treeNode2});
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("Node6");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("Node1", new System.Windows.Forms.TreeNode[] {
+            treeNode3,
+            treeNode4});
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Node7");
+            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("Node2", new System.Windows.Forms.TreeNode[] {
+            treeNode6});
+            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("Node3");
+            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("Node0", new System.Windows.Forms.TreeNode[] {
+            treeNode5,
+            treeNode7,
+            treeNode8});
+            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("Node10");
+            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("Node9", new System.Windows.Forms.TreeNode[] {
+            treeNode10});
             this.tv = new System.Windows.Forms.TreeView();
             this.AddBtn = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -87,7 +105,7 @@ namespace Tree {
             this.DelBtn = new System.Windows.Forms.Button();
             this.ExpandAllBtn = new System.Windows.Forms.Button();
             this.CollapseAllBtn = new System.Windows.Forms.Button();
-            this.mainMenu1 = new System.Windows.Forms.MainMenu();
+            this.mainMenu1 = new System.Windows.Forms.MainMenu(this.components);
             this.menuItem1 = new System.Windows.Forms.MenuItem();
             this.NewMI = new System.Windows.Forms.MenuItem();
             this.OpenMI = new System.Windows.Forms.MenuItem();
@@ -105,122 +123,142 @@ namespace Tree {
             // tv
             // 
             this.tv.HideSelection = false;
-            this.tv.ImageIndex = -1;
-            this.tv.Location = new System.Drawing.Point(56, 24);
+            this.tv.Location = new System.Drawing.Point(67, 28);
             this.tv.Name = "tv";
+            treeNode1.Name = "";
+            treeNode1.Text = "Node5";
+            treeNode2.Name = "";
+            treeNode2.Text = "Node8";
+            treeNode3.Name = "";
+            treeNode3.Text = "Node4";
+            treeNode4.Name = "";
+            treeNode4.Text = "Node6";
+            treeNode5.Name = "";
+            treeNode5.Text = "Node1";
+            treeNode6.Name = "";
+            treeNode6.Text = "Node7";
+            treeNode7.Name = "";
+            treeNode7.Text = "Node2";
+            treeNode8.Name = "";
+            treeNode8.Text = "Node3";
+            treeNode9.Name = "";
+            treeNode9.Text = "Node0";
+            treeNode10.Name = "";
+            treeNode10.Text = "Node10";
+            treeNode11.Name = "";
+            treeNode11.Text = "Node9";
             this.tv.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-                                                                           new System.Windows.Forms.TreeNode("Node0", new System.Windows.Forms.TreeNode[] {
-                                                                                                                                                              new System.Windows.Forms.TreeNode("Node1", new System.Windows.Forms.TreeNode[] {
-                                                                                                                                                                                                                                                 new System.Windows.Forms.TreeNode("Node4", new System.Windows.Forms.TreeNode[] {
-                                                                                                                                                                                                                                                                                                                                    new System.Windows.Forms.TreeNode("Node5"),
-                                                                                                                                                                                                                                                                                                                                    new System.Windows.Forms.TreeNode("Node8")}),
-                                                                                                                                                                                                                                                 new System.Windows.Forms.TreeNode("Node6")}),
-                                                                                                                                                              new System.Windows.Forms.TreeNode("Node2", new System.Windows.Forms.TreeNode[] {
-                                                                                                                                                                                                                                                 new System.Windows.Forms.TreeNode("Node7")}),
-                                                                                                                                                              new System.Windows.Forms.TreeNode("Node3")}),
-                                                                           new System.Windows.Forms.TreeNode("Node9", new System.Windows.Forms.TreeNode[] {
-                                                                                                                                                              new System.Windows.Forms.TreeNode("Node10")})});
-            this.tv.SelectedImageIndex = -1;
-            this.tv.Size = new System.Drawing.Size(520, 368);
+            treeNode9,
+            treeNode11});
+            this.tv.Size = new System.Drawing.Size(624, 424);
             this.tv.TabIndex = 0;
+            this.tv.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.tv_AfterSelect);
             // 
             // AddBtn
             // 
-            this.AddBtn.Location = new System.Drawing.Point(64, 408);
+            this.AddBtn.Location = new System.Drawing.Point(77, 471);
             this.AddBtn.Name = "AddBtn";
+            this.AddBtn.Size = new System.Drawing.Size(90, 26);
             this.AddBtn.TabIndex = 1;
             this.AddBtn.Text = "&Add";
             this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click);
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.AddRange(new System.Windows.Forms.Control[] {
-                                                                                    this.HotTrackCB,
-                                                                                    this.LabelEditCB,
-                                                                                    this.CheckBoxesCB,
-                                                                                    this.ApplyOptsBtn,
-                                                                                    this.RootLinesCB,
-                                                                                    this.LinesCB,
-                                                                                    this.PlusMinusCB});
-            this.groupBox1.Location = new System.Drawing.Point(256, 400);
+            this.groupBox1.Controls.Add(this.HotTrackCB);
+            this.groupBox1.Controls.Add(this.LabelEditCB);
+            this.groupBox1.Controls.Add(this.CheckBoxesCB);
+            this.groupBox1.Controls.Add(this.ApplyOptsBtn);
+            this.groupBox1.Controls.Add(this.RootLinesCB);
+            this.groupBox1.Controls.Add(this.LinesCB);
+            this.groupBox1.Controls.Add(this.PlusMinusCB);
+            this.groupBox1.Location = new System.Drawing.Point(307, 462);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(400, 112);
+            this.groupBox1.Size = new System.Drawing.Size(480, 129);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = " Options ... ";
             // 
             // HotTrackCB
             // 
-            this.HotTrackCB.Location = new System.Drawing.Point(160, 80);
+            this.HotTrackCB.Location = new System.Drawing.Point(192, 92);
             this.HotTrackCB.Name = "HotTrackCB";
+            this.HotTrackCB.Size = new System.Drawing.Size(125, 28);
             this.HotTrackCB.TabIndex = 6;
             this.HotTrackCB.Text = "hot track";
             // 
             // LabelEditCB
             // 
-            this.LabelEditCB.Location = new System.Drawing.Point(160, 48);
+            this.LabelEditCB.Location = new System.Drawing.Point(192, 55);
             this.LabelEditCB.Name = "LabelEditCB";
+            this.LabelEditCB.Size = new System.Drawing.Size(125, 28);
             this.LabelEditCB.TabIndex = 5;
             this.LabelEditCB.Text = "edit labels";
             // 
             // CheckBoxesCB
             // 
-            this.CheckBoxesCB.Location = new System.Drawing.Point(160, 16);
+            this.CheckBoxesCB.Location = new System.Drawing.Point(192, 18);
             this.CheckBoxesCB.Name = "CheckBoxesCB";
-            this.CheckBoxesCB.Size = new System.Drawing.Size(168, 24);
+            this.CheckBoxesCB.Size = new System.Drawing.Size(202, 28);
             this.CheckBoxesCB.TabIndex = 4;
             this.CheckBoxesCB.Text = "show check boxes";
             // 
             // ApplyOptsBtn
             // 
-            this.ApplyOptsBtn.Location = new System.Drawing.Point(304, 72);
+            this.ApplyOptsBtn.Location = new System.Drawing.Point(365, 83);
             this.ApplyOptsBtn.Name = "ApplyOptsBtn";
+            this.ApplyOptsBtn.Size = new System.Drawing.Size(90, 27);
             this.ApplyOptsBtn.TabIndex = 3;
             this.ApplyOptsBtn.Text = "Apply";
             this.ApplyOptsBtn.Click += new System.EventHandler(this.ApplyOptsBtn_Click);
             // 
             // RootLinesCB
             // 
-            this.RootLinesCB.Location = new System.Drawing.Point(8, 80);
+            this.RootLinesCB.Location = new System.Drawing.Point(10, 92);
             this.RootLinesCB.Name = "RootLinesCB";
+            this.RootLinesCB.Size = new System.Drawing.Size(124, 28);
             this.RootLinesCB.TabIndex = 2;
             this.RootLinesCB.Text = "show root lines";
             // 
             // LinesCB
             // 
-            this.LinesCB.Location = new System.Drawing.Point(8, 48);
+            this.LinesCB.Location = new System.Drawing.Point(10, 55);
             this.LinesCB.Name = "LinesCB";
+            this.LinesCB.Size = new System.Drawing.Size(124, 28);
             this.LinesCB.TabIndex = 1;
             this.LinesCB.Text = "show lines";
             // 
             // PlusMinusCB
             // 
-            this.PlusMinusCB.Location = new System.Drawing.Point(8, 16);
+            this.PlusMinusCB.Location = new System.Drawing.Point(10, 18);
             this.PlusMinusCB.Name = "PlusMinusCB";
-            this.PlusMinusCB.Size = new System.Drawing.Size(136, 24);
+            this.PlusMinusCB.Size = new System.Drawing.Size(163, 28);
             this.PlusMinusCB.TabIndex = 0;
             this.PlusMinusCB.Text = "show plus and minus";
             // 
             // DelBtn
             // 
-            this.DelBtn.Location = new System.Drawing.Point(64, 448);
+            this.DelBtn.Location = new System.Drawing.Point(77, 517);
             this.DelBtn.Name = "DelBtn";
+            this.DelBtn.Size = new System.Drawing.Size(90, 26);
             this.DelBtn.TabIndex = 3;
             this.DelBtn.Text = "Delete";
             this.DelBtn.Click += new System.EventHandler(this.DelBtn_Click);
             // 
             // ExpandAllBtn
             // 
-            this.ExpandAllBtn.Location = new System.Drawing.Point(168, 408);
+            this.ExpandAllBtn.Location = new System.Drawing.Point(202, 471);
             this.ExpandAllBtn.Name = "ExpandAllBtn";
+            this.ExpandAllBtn.Size = new System.Drawing.Size(90, 26);
             this.ExpandAllBtn.TabIndex = 4;
             this.ExpandAllBtn.Text = "Expand All";
             this.ExpandAllBtn.Click += new System.EventHandler(this.ExpandAllBtn_Click);
             // 
             // CollapseAllBtn
             // 
-            this.CollapseAllBtn.Location = new System.Drawing.Point(168, 448);
+            this.CollapseAllBtn.Location = new System.Drawing.Point(202, 517);
             this.CollapseAllBtn.Name = "CollapseAllBtn";
+            this.CollapseAllBtn.Size = new System.Drawing.Size(90, 26);
             this.CollapseAllBtn.TabIndex = 5;
             this.CollapseAllBtn.Text = "Collapse All";
             this.CollapseAllBtn.Click += new System.EventHandler(this.CollapseAllBtn_Click);
@@ -228,20 +266,20 @@ namespace Tree {
             // mainMenu1
             // 
             this.mainMenu1.MenuItems.AddRange(new System.Windows.Forms.MenuItem[] {
-                                                                                      this.menuItem1});
+            this.menuItem1});
             // 
             // menuItem1
             // 
             this.menuItem1.Index = 0;
             this.menuItem1.MenuItems.AddRange(new System.Windows.Forms.MenuItem[] {
-                                                                                      this.NewMI,
-                                                                                      this.OpenMI,
-                                                                                      this.SaveMI,
-                                                                                      this.menuItem4,
-                                                                                      this.TestMI,
-                                                                                      this.IndexMI,
-                                                                                      this.menuItem2,
-                                                                                      this.ExitMI});
+            this.NewMI,
+            this.OpenMI,
+            this.SaveMI,
+            this.menuItem4,
+            this.TestMI,
+            this.IndexMI,
+            this.menuItem2,
+            this.ExitMI});
             this.menuItem1.Text = "&File";
             // 
             // NewMI
@@ -254,13 +292,11 @@ namespace Tree {
             // 
             this.OpenMI.Index = 1;
             this.OpenMI.Text = "&Open";
-
             // 
             // SaveMI
             // 
             this.SaveMI.Index = 2;
             this.SaveMI.Text = "&Save";
-            
             // 
             // menuItem4
             // 
@@ -300,15 +336,14 @@ namespace Tree {
             // 
             // Form1
             // 
-            this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
-            this.ClientSize = new System.Drawing.Size(672, 517);
-            this.Controls.AddRange(new System.Windows.Forms.Control[] {
-                                                                          this.CollapseAllBtn,
-                                                                          this.ExpandAllBtn,
-                                                                          this.DelBtn,
-                                                                          this.groupBox1,
-                                                                          this.AddBtn,
-                                                                          this.tv});
+            this.AutoScaleBaseSize = new System.Drawing.Size(6, 15);
+            this.ClientSize = new System.Drawing.Size(819, 607);
+            this.Controls.Add(this.CollapseAllBtn);
+            this.Controls.Add(this.ExpandAllBtn);
+            this.Controls.Add(this.DelBtn);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.AddBtn);
+            this.Controls.Add(this.tv);
             this.Menu = this.mainMenu1;
             this.Name = "Form1";
             this.Text = "Form1";
@@ -417,7 +452,10 @@ namespace Tree {
 			*/			
         }
 
+        private void tv_AfterSelect(object sender, TreeViewEventArgs e)
+        {
 
+        }
     }
 }
 

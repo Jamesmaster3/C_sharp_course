@@ -1,0 +1,16 @@
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\bin\Debug\net6.0-windows\Treeviewtest.exe
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\bin\Debug\net6.0-windows\Treeviewtest.deps.json
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\bin\Debug\net6.0-windows\Treeviewtest.runtimeconfig.json
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\bin\Debug\net6.0-windows\Treeviewtest.dll
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\bin\Debug\net6.0-windows\Treeviewtest.pdb
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.Form1.resources
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.csproj.GenerateResource.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.AssemblyInfoInputs.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.AssemblyInfo.cs
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.dll
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\refint\Treeviewtest.dll
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.pdb
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\Treeviewtest.genruntimeconfig.cache
+C:\Users\jimbe\OneDrive\Office\03. C#\C_sharp_course\CSharpProjects\Treeviewtest\obj\Debug\net6.0-windows\ref\Treeviewtest.dll

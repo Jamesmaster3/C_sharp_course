@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Step01",
+    "\\Step01\\HelloWorld",
+    "\\Step01\\HelloWorld\\bin",
+    "\\Step01\\HelloWorld\\bin\\Debug",
+    "\\Step01\\HelloWorld\\obj",
+    "\\Step01\\HelloWorld\\obj\\Debug"
+  ],
+  "SelectedNode": "\\Step01\\HelloWorld\\bin\\Debug",
+  "PreviewInSolutionExplorer": false
+}
