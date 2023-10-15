@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalc", "Step02\TaxCalc\TaxCalc\TaxCalc.csproj", "{4AB97292-1C52-4580-9925-DACB6340C1B6}"
 EndProject
@@ -80,6 +80,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringinterpolation", "Step06\stringinterpolation\stringinterpolation\stringinterpolation.csproj", "{E120B360-27DB-4BF2-BC84-FFCDAB4F2904}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dowhile", "Step06\dowhile\dowhile\dowhile.csproj", "{3E58986D-6477-4EAD-A6B1-9F297CFE6CAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treeviewtest", "Treeviewtest\Treeviewtest.csproj", "{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,14 @@ Global
 		{3E58986D-6477-4EAD-A6B1-9F297CFE6CAD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E58986D-6477-4EAD-A6B1-9F297CFE6CAD}.Release|x86.ActiveCfg = Release|Any CPU
 		{3E58986D-6477-4EAD-A6B1-9F297CFE6CAD}.Release|x86.Build.0 = Release|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Debug|x86.Build.0 = Debug|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Release|x86.ActiveCfg = Release|Any CPU
+		{8AC0E3D8-A9BF-409B-99B6-0472E3E5EA97}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -355,5 +365,8 @@ Global
 		{C03E7DD3-9683-4725-B6B4-B64DBD9E1F96} = {5CC935C0-E6B4-4D97-A8E0-79664C7F7155}
 		{E120B360-27DB-4BF2-BC84-FFCDAB4F2904} = {5CC935C0-E6B4-4D97-A8E0-79664C7F7155}
 		{3E58986D-6477-4EAD-A6B1-9F297CFE6CAD} = {5CC935C0-E6B4-4D97-A8E0-79664C7F7155}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B58ECD-0468-45D0-B2A7-5555A19BE21A}
 	EndGlobalSection
 EndGlobal
